@@ -53,16 +53,14 @@ p{
 	width: 33%;
 }
 
-@media (min-width: 768px) (max-width: 991px) {
-#section1{
-	width:50%;
-}
-#section2{
-	width:50%;
+@media (min-width: 768px) and (max-width: 991px) {
+section{
+	width:47%;
 }
 
 #section3{
 	width:100%;
+	clear:left;
 }
 #sushi{
 	width:20%;
