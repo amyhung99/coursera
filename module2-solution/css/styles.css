@@ -48,21 +48,21 @@ p{
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-section{
-	width:47%;
-}
+	section{
+		width:47%;
+	}
 
-#section3{
-	width:100%;
-	clear:left;
-}
-#sushi{
-	width:20%;
-}
+	#section3{
+		width:100%;
+		clear:left;
+	}
+	#sushi{
+		width:20%;
+	}
 }
 
 @media (max-width: 767px){
-section{
-	width:100%;
-}
+	section{
+		width:100%;
+	}
 }
